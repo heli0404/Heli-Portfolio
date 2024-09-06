@@ -20,9 +20,6 @@ function Portfolio() {
              <img src={project2} alt="Project 2" /> 
             
             <a href="#">View project</a>
-            <div className="div">
-              <h4>jgk3rjvjvvj</h4>
-            </div>
           </div>
           <div className="project">
             <img src={project3} alt="Project 3" />
